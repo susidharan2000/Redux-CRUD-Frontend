@@ -1,0 +1,9 @@
+.table th,
+.table td {
+  padding: 20px; /* Adjust as needed */
+}
+.title-books{
+    background-color: #0e2238;
+    color: white;
+    padding: 20px 30px;
+}
